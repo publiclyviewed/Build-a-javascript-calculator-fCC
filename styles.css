@@ -1,0 +1,17 @@
+.calculator {
+    max-width: 400px;
+    margin: 50px auto;
+  }
+  #display {
+    height: 60px;
+    font-size: 2rem;
+    text-align: right;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+  }
+  .btn {
+    width: 25%;
+    height: 80px;
+    font-size: 1.5rem;
+  }
